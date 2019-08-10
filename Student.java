@@ -1,5 +1,5 @@
 
-public class Students
+public class Student
 {
     private String firstName, lastName;
     int grade, id = getId();
@@ -7,7 +7,7 @@ public class Students
     /**
      * Constructor for objects of class Students
      */
-    public Students()
+    public Student()
     {
         firstName = "Mia";
         lastName = "Fitzgerald";

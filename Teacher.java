@@ -1,10 +1,10 @@
 import java.util.*;
 
-public class Teachers
+public class Teacher
 {
     private String firstName, lastName, subject;
     
-    public Teachers() {
+    public Teacher() {
         firstName = "Hilda";
         lastName = "Star";
         subject = "English";

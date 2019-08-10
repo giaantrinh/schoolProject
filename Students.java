@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class Students here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Students
 {
     private String firstName, lastName;
